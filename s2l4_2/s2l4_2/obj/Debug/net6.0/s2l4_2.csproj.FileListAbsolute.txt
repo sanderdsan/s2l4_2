@@ -1,0 +1,15 @@
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\obj\Debug\net6.0\s2l4_2.csproj.AssemblyReference.cache
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\obj\Debug\net6.0\s2l4_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\obj\Debug\net6.0\s2l4_2.AssemblyInfoInputs.cache
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\obj\Debug\net6.0\s2l4_2.AssemblyInfo.cs
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\obj\Debug\net6.0\s2l4_2.csproj.CoreCompileInputs.cache
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\bin\Debug\net6.0\s2l4_2.exe
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\bin\Debug\net6.0\s2l4_2.deps.json
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\bin\Debug\net6.0\s2l4_2.runtimeconfig.json
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\bin\Debug\net6.0\s2l4_2.dll
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\bin\Debug\net6.0\s2l4_2.pdb
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\obj\Debug\net6.0\s2l4_2.dll
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\obj\Debug\net6.0\refint\s2l4_2.dll
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\obj\Debug\net6.0\s2l4_2.pdb
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\obj\Debug\net6.0\s2l4_2.genruntimeconfig.cache
+D:\приколи\programing\C\csh\s2l4_2\s2l4_2\obj\Debug\net6.0\ref\s2l4_2.dll
